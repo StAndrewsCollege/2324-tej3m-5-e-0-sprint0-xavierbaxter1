@@ -26,7 +26,7 @@ You will follow the steps outlined below (for both this sprint and those for our
 You will research and document technical resources that you believe will help you succeed at the sprint.
 
 
-# Orignal Diagram Developed #
+# Original Diagram Developed #
 
 ![image](https://github.com/StAndrewsCollege/2324-tej3m-5-e-0-sprint0-xavierbaxter1/assets/156106709/e55aedf4-db45-4edd-8b5c-ddefc19dc937)
 
