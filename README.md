@@ -1,18 +1,13 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/E_4KgoHI)
 # Sprint 0 - Paper tower
 
-For our first sprint we will be practicing the process of design, and submission of sprints using Github.
-
-You will document and submit your design process in this GitHub repository. Your design process will involve all of the stages that you will show in each stage of our RoboCup project, but for this first sprint we will be working without technology.
+Introduction: The goal was to develop a stable tower made out of 1 size 8.5x11 piece of paper
 
 ## Goal
 
-For your roboCup sprints you will be setting your own goals that can be completed within a given time (usually two weeks). For our first sprint your goal will be given to you and will be completed in one week.
+My goal is to make a high paper tower that can stand for 30 seconds.
 
-`Create a design for the tallest possible tower using a single sheet of plain printer paper`
-
-### Restrictions
-
+# The restrictions for this assignment were, #
 - No tape, glue, water or other adhesive
 - No supports
 - Must stand for 30 seconds
@@ -20,8 +15,6 @@ For your roboCup sprints you will be setting your own goals that can be complete
 - Normal earth gravity
 - Standard paper weight
 - sheet size 8.5x11 inches (letter)
-
-You will submit the instructions and diagrams that would allow another to make your designed tower, 
 
 ## Process
 
@@ -32,22 +25,53 @@ You will follow the steps outlined below (for both this sprint and those for our
 
 You will research and document technical resources that you believe will help you succeed at the sprint.
 
-### Ideation
 
-You will create quick sketches or descriptions of your planned design
+# Orignal Diagram Developed #
+
+![image](https://github.com/StAndrewsCollege/2324-tej3m-5-e-0-sprint0-xavierbaxter1/assets/156106709/e55aedf4-db45-4edd-8b5c-ddefc19dc937)
+
+I decided to make cubes and stack them but it took up too much paper and the cubes were very difficult to make.
+
+![image](https://github.com/StAndrewsCollege/2324-tej3m-5-e-0-sprint0-xavierbaxter1/assets/156106709/ac89a489-713f-444a-b755-4ba8ada53793)
+
+This diagram represents my research and main idea of this assignment, if there is a triangular base it increases the structural integrity and develops the paper easily.
 
 ### Prototyping
 
-You will make a quick and simple test of your ideas, making something that is built and tested as quickly as possible.
+# Prototype #1 #
+ ![image](https://github.com/StAndrewsCollege/2324-tej3m-5-e-0-sprint0-xavierbaxter1/assets/156106709/dd2493ce-eaf3-4d7e-bade-47368ca3b708)
 
-### Testing and Critique
+Firstly I started off simple, I folded the entire paper in half and put the long side up vertically, this was a simple idea. 
 
-You will evaluate your prototype and document your thinking, what you have learned and how you will improve your design.
+# Prototype #2 #
 
-### Final design
+![image](https://github.com/StAndrewsCollege/2324-tej3m-5-e-0-sprint0-xavierbaxter1/assets/156106709/01cee7a9-30f5-46e1-85fd-bae51b4fb5bd)
 
-You will document your final design idea in detail, with enough technical detail for another engineer to recreate your work
+To increase the complexity of my first prototype, I ripped the original paper in half and then stacked them both sideways, this was very unstable since they weren'tre connected by anything except gravity.
 
-### Conclusion
+# Prototype #3 #
 
-You will make a brief comment on the success of your design and what next steps others might build on your work.
+
+![image](https://github.com/StAndrewsCollege/2324-tej3m-5-e-0-sprint0-xavierbaxter1/assets/156106709/9bca7e18-f9f8-4684-a532-78ef8e34bbb9)
+
+I did this same for prototype 3 except ripped the paper into 3 difference sizes, large, medium and small and stacked them, next I cut lines in the stacked ones to increase the stability, this structure wasn't too stable however, and it took some tweaks to get it to stand up, firstly I divided the 3 pieces of paper into different sizes, large, medium, and small, next I made rips in the top of each paper except the small and put the other papers in like a puzzle so they held and maintained the weight.
+
+
+# Prototype #4 #
+
+![image](https://github.com/StAndrewsCollege/2324-tej3m-5-e-0-sprint0-xavierbaxter1/assets/156106709/99ab46ed-8428-4c97-a030-91b3b4d8b468)
+
+I tried to connect every square but it soon started to fall sideways, this idea was generated off my original idea of stacking cubes but required less paper, it didn't get high though.
+
+
+# Prototype #5 #
+
+
+![image](https://github.com/StAndrewsCollege/2324-tej3m-5-e-0-sprint0-xavierbaxter1/assets/156106709/123d7179-7e81-46d5-9af4-e3cfb99e2522)
+
+I found that if you have a stronger base you will be able to build higher without it falling, I made 3 pillars held by a paper that has a hole in the middle, than added a cylinder on top, although this wasn't as tall as my other prototypes, it was most stable one.
+
+
+##   Conclusion ##
+
+I used my engineering skills to make a stable enough structure, considering I couldn't use anything except paper.
